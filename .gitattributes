@@ -1,3 +1,4 @@
 Hand-Gesture_UI/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/*.dll filter=lfs diff=lfs merge=lfs -text
 Hand-Gesture_UI/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/*.dylib filter=lfs diff=lfs merge=lfs -text
 Hand-Gesture_UI/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/*.so filter=lfs diff=lfs merge=lfs -text
+Hand-Gesture_UI/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
