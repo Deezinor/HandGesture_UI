@@ -91,5 +91,7 @@ crashlytics-build.properties
 
 #Logs file
 /Hand-Gesture_UI/Logs/
+/Hand-Gesture_UI/Library/
+/Hand-Gesture_UI/Temp/
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
