@@ -50,6 +50,21 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Ignore Unity build outputs
+*.apk
+*.unitypackage
+*.exe
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore built libraries
+*.dll
+*.so
+*.dylib
+
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
